@@ -1,7 +1,6 @@
 - Mock interview video - https://youtu.be/IrIF9IjOwgs
 - Mock interview Answers - 
 
-
 GIT
 ---------------------------------------------------------------------------------------------------------------------------------
 1. What is git-cherry-pick? why we use it?
